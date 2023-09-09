@@ -13,7 +13,7 @@ const Main = () => {
     <Container>
       <Row className='px-4 my-5'>
         <Col sm={7}>
-        <Image src="http://dummyimage.com/900x400/dee2e6/6c757d.jpg" fluid rounded  />;
+        <Image src="http://picsum.photos/900/400" fluid rounded  />;
         </Col>
         <Col sm={5}>
           <h1 className='font-weigh-ligh'>Tagline</h1>
@@ -29,7 +29,7 @@ const Main = () => {
       <Row>
         <Col>
         <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+      <Card.Img variant="top" src="https://picsum.photos/id/200/320/200" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -42,7 +42,7 @@ const Main = () => {
         </Col>
         <Col>
         <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+      <Card.Img variant="top" src="https://picsum.photos/id/200/320/200" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -55,7 +55,7 @@ const Main = () => {
         </Col>
         <Col>
         <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+      <Card.Img variant="top" src="https://picsum.photos/id/200/320/200" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
